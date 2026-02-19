@@ -1,8 +1,6 @@
 """
 Identifikační údaje o autorovi projektu:
     Jméno a příjmení: Květoslava Červinková
-    tel.: 739 623 999
-    e-mail: cervinkova.kveta@seznam.cz
 """
 # importuje vestavěný modul "os"
 import os
@@ -92,3 +90,4 @@ print(f"Seznam společných položek v každém batohu: {seznam_spolecnych_predm
 
 # program vypíše celkový součet priorit u všech batohů
 print(f"\nCelkový součet priorit u všech batohů: {celkovy_soucet_priorit}\n")
+
